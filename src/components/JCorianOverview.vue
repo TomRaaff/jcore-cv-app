@@ -1,6 +1,6 @@
 <template>
   <div class="jcorian">
-    <h3>{{ jcorian.name }}</h3>
+    <h2>{{ jcorian.name }}</h2>
     <hr class="left">
     <img src="@/assets/john_doe.jpg" class="portrait" :alt="jcorian.name">
     <ul class="tags">

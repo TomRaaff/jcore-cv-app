@@ -23,6 +23,11 @@
         </article>
       </header>
       <article>
+        <h2>Wie is {{ jcorian.name }}?</h2>
+        <hr class="white left">
+        <p>{{ jcorian.introStory }} {{ jcorian.introStory }}</p>
+      </article>
+      <article>
         <h2>War Stories</h2>
         <hr class="white left">
         <p>{{ jcorian.introStory }}</p>

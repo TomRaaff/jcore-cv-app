@@ -1,7 +1,7 @@
 export default function getTechIcon(techName) {
 	const icons = {
 		typescript: 'https://cdn.svgporn.com/logos/typescript-icon.svg',
-		java: `https://cdn.svgporn.com/logos/java.svg`,
+		java: 'https://cdn.svgporn.com/logos/java.svg',
 		javascript: 'https://cdn.svgporn.com/logos/javascript.svg',
 		mobile: 'https://cdn.svgporn.com/logos/nativescript.svg',
 		frontend: 'https://cdn.svgporn.com/logos/html-5.svg',
